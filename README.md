@@ -33,4 +33,13 @@ Bu projemde kullandığım kaynaklar:
 		        print("ERROR !!: ", name, " Data Couldn't Be Received")  
 		    return response.text
 		```
-		
+
+
+## Uygulamadan Resimler
+
+![2](https://user-images.githubusercontent.com/52778108/105710365-11fc2580-5f28-11eb-997c-a6a5332fc869.png)
+
+![image](https://user-images.githubusercontent.com/52778108/105710489-407a0080-5f28-11eb-9ab9-72eab56fd9f4.png)
+
+![image](https://user-images.githubusercontent.com/52778108/105710584-5e476580-5f28-11eb-8ddc-d5f49bc76b65.png)
+
